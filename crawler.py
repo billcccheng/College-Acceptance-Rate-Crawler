@@ -54,5 +54,6 @@ for i in range(1,10):
 					print apply_tag[index]+":", apply_stat[index]+"%"
 				else:
 					print apply_tag[index]+":", apply_stat[index]
+		print "\n"
 
 
