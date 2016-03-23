@@ -6,7 +6,7 @@ from selenium import webdriver
 
 def get_school():
 	school_list = []
-	for page in range(4,5):
+	for page in range(1,5):
 		url2 = "http://grad-schools.usnews.rankingsandreviews.com/best-graduate-schools/top-science-schools/computer-science-rankings/page+"+str(page)
 		page = urllib2.urlopen(url2).read()
 		soup = BeautifulSoup(page, "lxml")

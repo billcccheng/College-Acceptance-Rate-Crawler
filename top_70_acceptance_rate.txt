@@ -1,3 +1,10 @@
+Carnegie Mellon University
+Applied: Not Reported
+Accepted: Not Reported
+Acceptance Rate: Not Reported
+Enrolled: Not Reported
+
+
 Massachusetts Institute of Technology
 Applied: 2,971
 Accepted: 390
@@ -35,9 +42,9 @@ Enrolled: 119
 
 University of Washington
 Applied: 1,287
-Accepted: 161
-Acceptance Rate: 12%
-Enrolled: 83
+Accepted: 280
+Acceptance Rate: 19%
+Enrolled: 119
 
 
 Princeton University
@@ -75,11 +82,11 @@ Acceptance Rate: 24%
 Enrolled: Not Reported
 
 
-University of California, Los Angeles
-Applied: 1,534
-Accepted: 324
-Acceptance Rate: 21%
-Enrolled: 180
+California State University, Los Angeles
+Applied: 286
+Accepted: 223
+Acceptance Rate: 77%
+Enrolled: 48
 
 
 University of Michigan
@@ -188,10 +195,6 @@ Enrolled: 621
 
 
 Penn State University Park
-Applied: Not Reported
-Accepted: Not Reported
-Acceptance Rate: Not Reported
-Enrolled: Not Reported
 
 
 University of California, Irvine
@@ -299,7 +302,7 @@ Acceptance Rate: 68%
 Enrolled: 42
 
 
-Virginia Tech 
+Norfolk State University
 
 
 Washington University in St. Louis
@@ -309,11 +312,11 @@ Acceptance Rate: 23%
 Enrolled: 50
 
 
-Boston University
-Applied: 650
-Accepted: 51
-Acceptance Rate: 7
-Enrolled: 29
+University of Massachusetts Boston
+Applied: Not Reported
+Accepted: Not Reported
+Acceptance Rate: Not Reported
+Enrolled: Not Reported
 
 
 North Carolina State University
@@ -463,7 +466,7 @@ Acceptance Rate: 55%
 Enrolled: 23
 
 
-Colorado State University
+dColorado State University
 Applied: 160
 Accepted: 105
 Acceptance Rate: 65%
@@ -489,3 +492,168 @@ Applied: 218
 Accepted: 53
 Acceptance Rate: 24%
 Enrolled: 23
+
+
+University of Delaware
+Applied: 206
+Accepted: 114
+Acceptance Rate: 55%
+Enrolled: 17
+
+
+University of Maryland, Baltimore County
+Applied: 404
+Accepted: 91
+Acceptance Rate: 22%
+Enrolled: 36
+
+
+University of Nebraska-Lincoln
+Applied: Not Reported
+Accepted: Not Reported
+Acceptance Rate: Not Reported
+Enrolled: Not Reported
+
+
+The University of Tennessee
+Applied: 149
+Accepted: 53
+Acceptance Rate: 35%
+Enrolled: Not Reported
+
+
+The University of Texas at Dallas
+Applied: 2,985
+Accepted: 1,167
+Acceptance Rate: 39%
+Enrolled: 505
+
+
+Washington State University
+Applied: 39
+Accepted: 14
+Acceptance Rate: 35%
+Enrolled: 13
+
+
+Brandeis University
+Applied: 42
+Accepted: 20
+Acceptance Rate: 47%
+Enrolled: 11
+
+
+Clemson University
+Applied: 468
+Accepted: 135
+Acceptance Rate: 28%
+Enrolled: 76
+
+
+Florida State University
+Applied: 455
+Accepted: 231
+Acceptance Rate: 50%
+Enrolled: 32
+
+
+The George Washington University
+Applied: 662
+Accepted: 411
+Acceptance Rate: 62%
+Enrolled: 141
+
+
+Southern Connecticut State University
+Applied: 41
+Accepted: 8
+Acceptance Rate: 19%
+Enrolled: 8
+
+
+The University of Kansas
+Applied: 150
+Accepted: 78
+Acceptance Rate: 52%
+Enrolled: 25
+
+
+University of New Mexico
+Applied: 298
+Accepted: 118
+Acceptance Rate: 39%
+Enrolled: 85
+
+
+Auburn University
+Applied: 198
+Accepted: 67
+Acceptance Rate: 33%
+Enrolled: 21
+
+
+Brigham Young University
+Applied: 31
+Accepted: 17
+Acceptance Rate: 54%
+Enrolled: 12
+
+
+Drexel University
+Applied: 195
+Accepted: 64
+Acceptance Rate: 32%
+Enrolled: 17
+
+
+Kansas State University
+Applied: 200
+Accepted: 55
+Acceptance Rate: 27%
+Enrolled: 26
+
+
+Stevens Institute of Technology
+
+
+Oregon Health & Science University
+Applied: 10
+Accepted: 6
+Acceptance Rate: 60%
+Enrolled: 5
+
+
+University of Central Florida
+Applied: 371
+Accepted: 264
+Acceptance Rate: 71%
+Enrolled: 99
+
+
+Georgia Southern University
+Applied: 36
+Accepted: 15
+Acceptance Rate: 41%
+Enrolled: 6
+
+
+University of Kentucky
+Applied: Not Reported
+Accepted: Not Reported
+Acceptance Rate: Not Reported
+Enrolled: Not Reported
+
+
+The University of Texas at Arlington
+Applied: 752
+Accepted: 452
+Acceptance Rate: 60%
+Enrolled: 89
+
+
+Worcester Polytechnic Institute
+Applied: 450
+Accepted: 128
+Acceptance Rate: 28%
+Enrolled: 28
+
